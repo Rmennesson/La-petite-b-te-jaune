@@ -7,3 +7,4 @@ Un jour quelque chose de bouleversant se produit
 Raymond perd ses lunettes et il ne voit plus rien du TOUT
 Il s'approche dangereusement de l'eau qui entoure son phare
 le phare l'attaque et Raymond perd l'équilibre
+Raymond tombe dans l'eau et se noie. Fin
